@@ -1,8 +1,9 @@
 import React from 'react';
+import style from '../modules/commit.module.css'
 
 const Commit = ({commit:{author, contributor, message, sha}}) => {
     return (
-        <div>
+        <div className={style.border}>
             <div>
                 <div>
                     Author:
