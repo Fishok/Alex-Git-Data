@@ -4,7 +4,6 @@
     <list default="true" id="11db5d1a-d3b3-4abc-ad62-e1134e376df7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Commit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/rootReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/rootReducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608308387997</updated>
       <workItem from="1608308389139" duration="610000" />
-      <workItem from="1608372034410" duration="24334000" />
+      <workItem from="1608372034410" duration="25928000" />
     </task>
     <task id="LOCAL-00001" summary="Github have ban me....">
       <created>1608394877751</created>
@@ -77,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608394877752</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Borders added">
+      <created>1608411748548</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608411748548</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Github have ban me...." />
-    <option name="LAST_COMMIT_MESSAGE" value="Github have ban me...." />
+    <MESSAGE value="Borders added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Borders added" />
   </component>
 </project>
